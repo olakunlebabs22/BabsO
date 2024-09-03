@@ -1,3 +1,4 @@
 # Hi my name is Olakunle Isaiah Babatunde
-### "I am a pasionanate data analyst with strong foundation in Mathematics"
+### "I am a pasionate data analyst with strong foundation in Mathematics"
+### "I have keen interest in transforming data into actionable insights"
 
